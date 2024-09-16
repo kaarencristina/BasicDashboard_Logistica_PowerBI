@@ -1,4 +1,5 @@
 # Pequena Dashboard de Logística no Power BI
+![ScreenShot](https://raw.githubusercontent.com/kaarencristina/BasicDashboard_Logistica_PowerBI/main/Capture.png)
 
 Este projeto foi desenvolvido com o intuito de aprendizado e prática das funcionalidades do Power BI.
 
